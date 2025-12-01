@@ -14,5 +14,9 @@ This is a single-page CV created using **only HTML**, as part of the roadmap.sh 
 No installation required.
 
 Just open the `index.html` file in any browser:
+
+
+
+
 project url
 https://roadmap.sh/projects/single-page-cv
